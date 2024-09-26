@@ -3410,7 +3410,7 @@ MonoBehaviour:
   - rate: 30
     prefab: {fileID: 1193047480514378383, guid: 2bc2d875477a3e645858cf3e40e7701e, type: 3}
   enemyList: []
-  delay: 1
+  delay: 2
 --- !u!1 &1613649374
 GameObject:
   m_ObjectHideFlags: 0

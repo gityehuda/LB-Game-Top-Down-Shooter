@@ -158,7 +158,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ship6_detail5_0: 3283821191896227974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

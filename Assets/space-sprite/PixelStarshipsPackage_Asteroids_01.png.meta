@@ -533,7 +533,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PixelStarshipsPackage_Asteroids_01_0: -2737530595323316533
+      PixelStarshipsPackage_Asteroids_01_1: -4056662034549994472
+      PixelStarshipsPackage_Asteroids_01_10: -9137393664119594542
+      PixelStarshipsPackage_Asteroids_01_11: -5148877086599272863
+      PixelStarshipsPackage_Asteroids_01_12: 3409312419120458912
+      PixelStarshipsPackage_Asteroids_01_13: -2380486395822314230
+      PixelStarshipsPackage_Asteroids_01_14: -5827098680715359482
+      PixelStarshipsPackage_Asteroids_01_15: 5549235586837819741
+      PixelStarshipsPackage_Asteroids_01_2: -4990137465245393760
+      PixelStarshipsPackage_Asteroids_01_3: -1430020392904953802
+      PixelStarshipsPackage_Asteroids_01_4: 3564445275637757645
+      PixelStarshipsPackage_Asteroids_01_5: 5003478501660105356
+      PixelStarshipsPackage_Asteroids_01_6: 5139941277013353331
+      PixelStarshipsPackage_Asteroids_01_7: 2374762104694173984
+      PixelStarshipsPackage_Asteroids_01_8: -5155661913182558702
+      PixelStarshipsPackage_Asteroids_01_9: -2382843595477433210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

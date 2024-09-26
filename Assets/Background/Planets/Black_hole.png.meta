@@ -158,7 +158,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_hole_0: -2858007844229963613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
