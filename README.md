@@ -36,5 +36,9 @@ The following controls are bound in-game, for gameplay and testing
 | ------------------------- | -------------------- |
 | A                         | Move Left            |
 | D                         | Move Right           |
-
 <br>
+
+## 📽️Gameplay Footage
+ <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Space%20Assault%20-%20Made%20with%20Clipchamp.gif"> </td>
+
+ br
